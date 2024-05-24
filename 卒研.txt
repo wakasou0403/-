@@ -1,0 +1,10 @@
+位置情報共有アプリ
+kotlin
+AWS EC2,RDS,Route53 
+Docker,github
+
+val text_view:TextView = findViewById(R.id.text)
+val button:Button = findViewById(R.id.button) 
+
+import android.widget.Button     ⇦ 追加
+import android.widget.TextView 
